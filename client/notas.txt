@@ -1,0 +1,11 @@
+hice un vite en vanilla js
+
+el codigo se correo con npm run dev
+
+hicimos carpeta server
+npm init -y
+
+npm install cors dotenv express nodemon openai
+
+para correr el server 
+npm run server
